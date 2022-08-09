@@ -1,0 +1,1487 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "TechiT - template kit for tech company",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/show.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/techit\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/techit\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Service",
+            "screenshot": "screenshots\/single-service.jpg",
+            "source": "templates\/single-service.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/techit\/template-kit\/single-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/techit\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Careers",
+            "screenshot": "screenshots\/careers.jpg",
+            "source": "templates\/careers.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/techit\/template-kit\/careers\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/techit\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/techit\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/techit\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/techit\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "techit v1 - error 404",
+            "screenshot": "screenshots\/techit-v1-error-404.jpg",
+            "source": "templates\/techit-v1-error-404.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/techit\/?elementor_library=techit-v1-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "techit v1 - single post",
+            "screenshot": "screenshots\/techit-v1-single-post.jpg",
+            "source": "templates\/techit-v1-single-post.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/techit\/?elementor_library=techit-v1-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "techit v1 - archive",
+            "screenshot": "screenshots\/techit-v1-archive.jpg",
+            "source": "templates\/techit-v1-archive.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/techit\/?elementor_library=techit-v1-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "techit v1 - footer",
+            "screenshot": "screenshots\/techit-v1-footer.jpg",
+            "source": "templates\/techit-v1-footer.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/techit\/?elementor_library=techit-v1-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "techit v1 - header",
+            "screenshot": "screenshots\/techit-v1-header.jpg",
+            "source": "templates\/techit-v1-header.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/techit\/?elementor_library=techit-v1-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.4.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "4.9.6",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.7.1",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Element Pack Lite - Addons for Elementor",
+            "version": "3.5.0",
+            "file": "bdthemes-element-pack-lite\/bdthemes-element-pack-lite.php",
+            "author": "BdThemes"
+        }
+    ],
+    "images": [
+        {
+            "filename": "software-developer.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/software-developer-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 99320,
+            "dimensions": [
+                1080,
+                1618
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MSM5J6Y"
+        },
+        {
+            "filename": "innovative-business-technology.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/innovative-business-technology-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 67640,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EGWETUX"
+        },
+        {
+            "filename": "modern-technologies-.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/modern-technologies--800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 43833,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z8ZQBFL"
+        },
+        {
+            "filename": "male-programmer-working-on-desktop-computer-with-many-monitors-at-office-in-software-develop-company.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/male-programmer-working-on-desktop-computer-with-many-monitors-at-office-in-software-develop-company-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 85767,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-93A5TRN"
+        },
+        {
+            "filename": "smartphone-cellphone-networking-telephone-concept.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/smartphone-cellphone-networking-telephone-concept-800x582.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 69902,
+            "dimensions": [
+                1080,
+                786
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7D73E6"
+        },
+        {
+            "filename": "engineer-analysing-cad-software-to-develop-video-game.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/engineer-analysing-cad-software-to-develop-video-game-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 89651,
+            "dimensions": [
+                1080,
+                608
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-U9E3BNW"
+        },
+        {
+            "filename": "software-engineers-working-on-project-and-programming-in-company.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/software-engineers-working-on-project-and-programming-in-company-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 113498,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2GV8F4X"
+        },
+        {
+            "filename": "workplace-of-software-engineer.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/workplace-of-software-engineer-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 73057,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-K8GH7QJ"
+        },
+        {
+            "filename": "computer-engineer-holds-pc-motherboard.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/computer-engineer-holds-pc-motherboard-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 86458,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-52SMC9C"
+        },
+        {
+            "filename": "programmer-working-on-laptop-computer-technology-1-1024x684-1-800x534-1.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/programmer-working-on-laptop-computer-technology-1-1024x684-1-800x534-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 54828,
+            "dimensions": [
+                800,
+                534
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZYTBRS9"
+        },
+        {
+            "filename": "serious-couple-of-hackers-working-with-computer-together-in-dark-room.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/serious-couple-of-hackers-working-with-computer-together-in-dark-room-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 88303,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GVTWYZX"
+        },
+        {
+            "filename": "man-working-code-program-developer-computer-web-development.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/man-working-code-program-developer-computer-web-development-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 91317,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KHSFSXP"
+        },
+        {
+            "filename": "web-developer-coding-app.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/web-developer-coding-app-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 92878,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-23JM754"
+        },
+        {
+            "filename": "adult-programming-web-codes-on-cybersecurity-interface.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/adult-programming-web-codes-on-cybersecurity-interface-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 79785,
+            "dimensions": [
+                1080,
+                608
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WMD4TRE"
+        },
+        {
+            "filename": "it-professional-works-on-startup-project-updates-software-and-database-on-mobile-phone-drinks-hot.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/it-professional-works-on-startup-project-updates-software-and-database-on-mobile-phone-drinks-hot-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 106019,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3MSYPVZ"
+        },
+        {
+            "filename": "portrait-of-attractive-man.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/portrait-of-attractive-man-800x1084.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 124564,
+            "dimensions": [
+                1080,
+                1463
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YL2Q3JC"
+        },
+        {
+            "filename": "african-mature-man-with-spectacles.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/african-mature-man-with-spectacles-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 64283,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BU6WCDS"
+        },
+        {
+            "filename": "young-creative-confidently-smiling-front-of-meeting-room--e1637379475591.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/young-creative-confidently-smiling-front-of-meeting-room--800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 54127,
+            "dimensions": [
+                516,
+                689
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-66KC57S"
+        },
+        {
+            "filename": "treva.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/treva.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 11248,
+            "dimensions": [
+                360,
+                360
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "ideaa.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/ideaa.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 19428,
+            "dimensions": [
+                360,
+                360
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "hexa.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/hexa.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 8091,
+            "dimensions": [
+                360,
+                360
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "foxhub.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/foxhub.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 5198,
+            "dimensions": [
+                360,
+                360
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "circle.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/circle.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 8447,
+            "dimensions": [
+                360,
+                360
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "man-with-a-laptop.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/man-with-a-laptop-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 113846,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BUU376K"
+        },
+        {
+            "filename": "laptop-on-table.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/laptop-on-table-800x504.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 161923,
+            "dimensions": [
+                1080,
+                681
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BDLVT8A"
+        },
+        {
+            "filename": "online-shopping-website.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/online-shopping-website-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 137757,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P6NA9XP"
+        },
+        {
+            "filename": "software-engineers-working-on-project-and-programming-in-company-1.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/software-engineers-working-on-project-and-programming-in-company-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 114600,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-U2LAX34"
+        },
+        {
+            "filename": "Kartun-1-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/Kartun-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 18048,
+            "dimensions": [
+                407,
+                233
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/programming-software-people-character-scenes-kit-6ZXJV9B"
+        },
+        {
+            "filename": "Kartun-2-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/Kartun-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 20509,
+            "dimensions": [
+                406,
+                233
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/programming-software-people-character-scenes-kit-6ZXJV9B"
+        },
+        {
+            "filename": "Kartun-3.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/Kartun-3.png",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 28537,
+            "dimensions": [
+                407,
+                233
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/programming-software-people-character-scenes-kit-6ZXJV9B"
+        },
+        {
+            "filename": "responsive-design-and-web-devices.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/responsive-design-and-web-devices-800x531.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 168797,
+            "dimensions": [
+                1080,
+                717
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8AJY9U"
+        },
+        {
+            "filename": "successful-company-with-happy-workers.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/successful-company-with-happy-workers-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 133340,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ND8G5WH"
+        },
+        {
+            "filename": "relaxed-informal-it-business-startup-company-meeting.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/relaxed-informal-it-business-startup-company-meeting-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 100799,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H9Y3LTP"
+        },
+        {
+            "filename": "green-10-2.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/green-10-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 34363,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/green-soft-fluid-backgrounds-AS6DTS4"
+        },
+        {
+            "filename": "Frame-3-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/Frame-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 8161,
+            "dimensions": [
+                236,
+                401
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/35-flat-user-icons-Y6VAFY"
+        },
+        {
+            "filename": "Frame-6-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/Frame-6-1.png",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 8297,
+            "dimensions": [
+                236,
+                401
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/35-flat-user-icons-Y6VAFY"
+        },
+        {
+            "filename": "Frame-5-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/Frame-5-1.png",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 8029,
+            "dimensions": [
+                236,
+                401
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/35-flat-user-icons-Y6VAFY"
+        },
+        {
+            "filename": "Frame-4-2.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/Frame-4-2.png",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 7528,
+            "dimensions": [
+                236,
+                401
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/35-flat-user-icons-Y6VAFY"
+        },
+        {
+            "filename": "Frame-7-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/Frame-7-1.png",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 9786,
+            "dimensions": [
+                236,
+                401
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/35-flat-user-icons-Y6VAFY"
+        },
+        {
+            "filename": "team-hand-shake.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/team-hand-shake-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 89054,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5QKN536"
+        },
+        {
+            "filename": "the-attractive-man-e1637378970560.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/the-attractive-man-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 45146,
+            "dimensions": [
+                600,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LFRCLML"
+        },
+        {
+            "filename": "close-up-portrait-of-attractive-friendly-looking-asian-female-office-worker-employee-or-teacher-in-e1637378266222.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/close-up-portrait-of-attractive-friendly-looking-asian-female-office-worker-employee-or-teacher-in-e1637378266222-800x1068.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 180205,
+            "dimensions": [
+                1000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YK7K54K"
+        },
+        {
+            "filename": "close-up-smiling-young-black-guy-in-red-sweater-e1638177005617.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/close-up-smiling-young-black-guy-in-red-sweater-e1637383598973-800x1068.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 78471,
+            "dimensions": [
+                550,
+                734
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PSXD584"
+        },
+        {
+            "filename": "attractive-young-man-e1637384017558.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/attractive-young-man-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 71466,
+            "dimensions": [
+                705,
+                940
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KGRVNJY"
+        },
+        {
+            "filename": "pretty-young-smiling-student-with-mobile-gadget-standing-in-front-of-camera-e1637396747807.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/pretty-young-smiling-student-with-mobile-gadget-standing-in-front-of-camera-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/techit-v1-single-post.json",
+                    "name": "techit v1 - single post"
+                }
+            ],
+            "filesize": 88964,
+            "dimensions": [
+                585,
+                781
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YFGEKNT"
+        },
+        {
+            "filename": "portrait-of-smiling-attractive-man-e1638176967531.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/portrait-of-smiling-attractive-man-e1637380058595-800x1065.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 96550,
+            "dimensions": [
+                550,
+                732
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P9L9AN3"
+        },
+        {
+            "filename": "attractive-asian-businesswoman-portrait-e1637378448979.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/attractive-asian-businesswoman-portrait-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 57896,
+            "dimensions": [
+                610,
+                815
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GTCUBJ7"
+        },
+        {
+            "filename": "attractive-young-african-female-on-red-background-e1637378352498.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/attractive-young-african-female-on-red-background-e1637378352498-800x1068.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 159625,
+            "dimensions": [
+                880,
+                1175
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PX8W7YE"
+        },
+        {
+            "filename": "the-office-building.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/the-office-building-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 179008,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PCXB6LG"
+        },
+        {
+            "filename": "green-business-team.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/green-business-team-800x553.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 136219,
+            "dimensions": [
+                1080,
+                747
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YHSAEMD"
+        },
+        {
+            "filename": "team-of-customer-service-agents-with-headsets-working-at-computers-in-office-empty-space.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/team-of-customer-service-agents-with-headsets-working-at-computers-in-office-empty-space-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 103690,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NLU7BGP"
+        },
+        {
+            "filename": "office-building-2-e1638176937975.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/office-building-2-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 98152,
+            "dimensions": [
+                720,
+                481
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PDDV2ZM"
+        },
+        {
+            "filename": "businessman-covering-face-with-card-with-question-mark-while-waiting-for-job-interview-with.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/businessman-covering-face-with-card-with-question-mark-while-waiting-for-job-interview-with-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 87248,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4VAEX3J"
+        },
+        {
+            "filename": "HD_M199_05_real-png-e1638176902592.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/HD_M199_05_real-png-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/techit-v1-error-404.json",
+                    "name": "techit v1 - error 404"
+                }
+            ],
+            "filesize": 118167,
+            "dimensions": [
+                640,
+                427
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/businessman-is-looking-through-magnifying-glass-2BHT2DH"
+        },
+        {
+            "filename": "office-desktop-laptop-with-office-supplies-on-the-table-.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/office-desktop-laptop-with-office-supplies-on-the-table--800x690.jpg",
+            "templates": [
+                {
+                    "source": "templates\/techit-v1-single-post.json",
+                    "name": "techit v1 - single post"
+                },
+                {
+                    "source": "templates\/techit-v1-archive.json",
+                    "name": "techit v1 - archive"
+                }
+            ],
+            "filesize": 175646,
+            "dimensions": [
+                1080,
+                931
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NAZN7LW"
+        },
+        {
+            "filename": "man-managing-network-of-data-center-from-computer.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/man-managing-network-of-data-center-from-computer-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/techit-v1-archive.json",
+                    "name": "techit v1 - archive"
+                }
+            ],
+            "filesize": 116034,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QG9K9QX"
+        },
+        {
+            "filename": "Logo_6_white.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/Logo_6_white.png",
+            "templates": [
+                {
+                    "source": "templates\/techit-v1-footer.json",
+                    "name": "techit v1 - footer"
+                }
+            ],
+            "filesize": 2351,
+            "dimensions": [
+                332,
+                93
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo_5.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/techit\/wp-content\/uploads\/sites\/19\/2021\/11\/Logo_5.png",
+            "templates": [
+                {
+                    "source": "templates\/techit-v1-header.json",
+                    "name": "techit v1 - header"
+                }
+            ],
+            "filesize": 2235,
+            "dimensions": [
+                332,
+                93
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
